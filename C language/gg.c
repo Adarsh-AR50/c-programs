@@ -6,4 +6,6 @@ int main()
     b=10;
     c=a+b;
     printf(c);
+    d=1*b;
+    printf(d);
 }
